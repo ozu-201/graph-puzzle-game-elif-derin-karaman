@@ -1,0 +1,12 @@
+# ninja log v5
+20	372	7242547334957609	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/General/AbstractGraph.cpp.obj	335f4d36476eef31
+14	561	7242547337162243	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Graph/EdgeList.cpp.obj	19d012d05760d1ff
+3	492	7242547336447357	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Graph/Edge.cpp.obj	12d737041534fb78
+561	1031	7242547341902902	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Node.cpp.obj	5c236db9e07a659f
+7	721	7242547876151871	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Graph/Graph.cpp.obj	c03147048edb1536
+374	1289	7242547344471379	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Puzzle.cpp.obj	c1f9bec25f068a04
+1033	1440	7242547345996994	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Queue.cpp.obj	4c42cc8ed808b65e
+4	97	7242548461614692	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/General/Path.cpp.obj	990b4c6ebb93a6c9
+98	264	7242548463244799	graph_puzzle_game_elif_derin_karaman.exe	4c6ce321ecb885c5
+4	734	7242550491539030	CMakeFiles/graph_puzzle_game_elif_derin_karaman.dir/List/Puzzle.cpp.obj	c1f9bec25f068a04
+735	902	7242550493148029	graph_puzzle_game_elif_derin_karaman.exe	4c6ce321ecb885c5
